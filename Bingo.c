@@ -1,17 +1,4 @@
-/********DO NOT MODIFY THIS SECTION************
- * 
- * EECS 22 : Advanced C Programming
- * Winter 2020, Prof. Quoc-Viet Dang
- * 
- * HW1  : Bingo Simulator
- * Template file : Bingo.c
- * 
- * Created on Jan 5, 2020, 10:56 PM by Bo Tsai <bo.tsai@uci.edu>
- */
-/**********************************************
- 
-// Enter your name, last name and UCInet ID below://
- * 
+ /* 
  * *****************************
  * First Name : Nasser
  * Last Name: Marcellus
